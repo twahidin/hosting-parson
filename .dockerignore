@@ -1,0 +1,11 @@
+.git
+.gitignore
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+/Deployments.png
+/Environments.png
+README.md
+LICENSE
